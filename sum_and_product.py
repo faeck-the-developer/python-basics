@@ -1,0 +1,15 @@
+# Please write a program which asks the user for two numbers. The program will then print out the sum and the product of the two numbers. The program should function as follows:
+Number 1: 3
+Number 2: 7
+The sum of the numbers: 10
+The product of the numbers: 21
+
+num1 = int(input ("Number 1: "))
+num2 = int(input ("Number 2: "))
+result = num1 + num2
+result2 = num1 * num2
+print (f"The sum of the numbers: {result}")
+print (f"The product of the numbers: {result2}")
+
+
+
